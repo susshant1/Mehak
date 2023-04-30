@@ -1,0 +1,43 @@
+.container{
+background-image:url("https://digitalmarketingdeal.com/blog/wp-content/uploads/2018/11/Tips-to-hire-the-construction-companies.jpg") ;
+ background-repeat: no-repeat;
+  background-attachment:scroll;
+  background-position:left;
+  background-size: 62%;
+ 
+  border: 3px dashed rgb(241, 108, 108);
+  padding: 25px;
+  
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-repeat: repeat-y;
+  background-size: auto;
+}
+
+    
+    
+
+.input{
+    text-align: left;
+    font-weight: bolder;
+  
+}
+
+textarea{
+    border: solid;
+    border-color: rgb(157, 20, 164);
+    border-radius: 1rem;
+    
+    
+}
+h3{
+    color: darkgreen;
+}
+h2{
+    color:rgb(10, 32, 78)
+}
+
+.div1{
+    margin-left: 665px;
+    
+}

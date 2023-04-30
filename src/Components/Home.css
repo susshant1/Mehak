@@ -1,0 +1,22 @@
+a{  
+    width: min-content;
+    text-decoration: none;
+    text-shadow: rgb(252, 27, 27);
+    color: rgb(87, 70, 70);
+   
+  
+  
+} 
+a:hover{
+    color: blueviolet;
+    
+    
+    border: solid silver;
+    border-radius: 12rem;
+
+}
+
+.Image{
+    border: dotted rgb(182, 209, 224);
+    border-radius: 11rem;
+}

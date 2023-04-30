@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(250, 235, 215);
+}
+h1{
+    color: darkgreen;
+}
+.div1{
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    content: initial;
+    margin-right: 38rem;
+    
+}
+.divImg{
+    justify-items: left;
+    justify-content: left;
+}
+p{
+color: brown;
+}
+hr{
+    size: 2rem;
+    font-size: bold;
+    color: black;
+
+    
+}
+.div2{
+    display: inline-block;
+    content: initial;
+    justify-content: center;
+    text-align: center;
+}
+.div0{
+    display: block;
+    justify-content: center;
+    
+}
+input{
+    height: 3rem;
+    width: 45rem;
+    text-align: center;
+}
+button{
+    margin-left: 2px;
+    border-radius: 3rem;
+}
+button:hover{
+    color: blue;
+    background-color: aliceblue;
+}
+
+
+
+
